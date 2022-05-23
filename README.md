@@ -1,2 +1,3 @@
 # hello-world
-Prueba de inicio de GitHub
+Here's a brief description of myself:  
+I'm **Leonel Gerardo Velázquez García** a young enthusiast engineer looking for best and better codes 
